@@ -1,0 +1,3 @@
+https://www.python.org/downloads/
+https://github.com/surusara/NLB-Python/
+https://www.programiz.com/python-programming/online-compiler/
